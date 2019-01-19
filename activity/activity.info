@@ -2,7 +2,7 @@
 name = RiverHex
 activity_version = 1
 host_version = 1
-service_name = org.olpcfrance.RiverHexActivity
+bundle_id = org.olpcfrance.RiverHexActivity
 icon = activity-riverhexactivity
 mime_types = application/riverhexactivity
 exec = sugar-activity activity.RiverHexActivity
